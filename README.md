@@ -1,1 +1,1 @@
-# EBU6304 SoftWareProject
+# EBU6304 SoftwareProject
